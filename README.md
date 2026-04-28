@@ -1,5 +1,2 @@
 # RNN-For-Sentiment-Analysis
-
-
-afsdfzsrwafs fsf
-fhdxfhfdhdfhdf
+* RNN Minor Project
