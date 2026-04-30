@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎬%20Sentiment%20Analysis%20(IMDB)&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+---
+
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)]
