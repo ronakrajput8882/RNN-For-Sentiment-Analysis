@@ -37,3 +37,40 @@ The model classifies reviews into:
 ---
 
 ## 🔄 Pipeline Workflow
+
+Raw Text
+↓
+Cleaning (URLs, HTML, punctuation)
+↓
+Tokenization + Stopword Removal
+↓
+Stemming
+↓
+TF-IDF Vectorization (5000 features)
+↓
+PyTorch Model
+↓
+Prediction
+
+---
+
+## 🧹 Text Preprocessing
+
+- Lowercasing
+- URL removal
+- HTML tag removal
+- Punctuation cleaning
+- Stopword filtering (NLTK)
+- Stemming (PorterStemmer)
+
+---
+
+## 🧠 Feature Engineering
+
+- **TF-IDF Vectorizer**
+- Max features: 5000
+- Converts text → numerical representation
+
+---
+
+## 🤖 Model Architecture
