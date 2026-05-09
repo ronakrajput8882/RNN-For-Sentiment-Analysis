@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🎬%20IMDB%20Sentiment%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Binary%20Text%20Classification%20using%20TF-IDF%20%2B%20PyTorch%20RNN&descAlignY=60&descAlign=50" width="100%"/>
+9<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🎬%20IMDB%20Sentiment%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Binary%20Text%20Classification%20using%20TF-IDF%20%2B%20PyTorch%20RNN&descAlignY=60&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -206,7 +206,6 @@ python rnn_sentiment_analysis.py
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techwithronak)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronakrajput8882)
 
-*If you found this useful, please ⭐ the repo!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
 
